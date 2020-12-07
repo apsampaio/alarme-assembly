@@ -1,0 +1,13 @@
+Warning[207] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 101 : Found label after column 1. (inicio)
+Message[302] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 104 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 106 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 108 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 110 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 112 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 114 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 117 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 128 : Found label after column 1. (start)
+Message[305] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 153 : Using default destination of 1 (file).
+Warning[207] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 157 : Found label after column 1. (tempo)
+Warning[207] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 160 : Found label after column 1. (loop2)
+Warning[205] G:\ARQUIVOS\ANDRé µCONTROLADOR\ALARME.X\ALARMEDEFINITIVO.ASM 164 : Found directive in column 1. (end)
